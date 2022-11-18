@@ -3,6 +3,10 @@ Software Engineering and Security Research<br>
 This means I have an interest in writing code and program analysis, but a lot of my writeups are not public because I would like to make sure pwn.college stays a valid learning platform
 ## Practicing Security Research
 These are my favorite places to practice my security skills
+- https://github.com/guyinatuxedo/nightmare<br>
+This is where I learn and practice my binary exploitation skills
+- https://ropemporium.com/
+This is where I learn and practice my rop chains
 - https://pwn.college/<br>
 This is where I learn and practice my binary exploitation skills
 - https://ost2.fyi/<br>
@@ -17,7 +21,8 @@ I have some work experience
 - I also spent about a year doing malware analysis with volatility, and building memory forensics training materials
 ## Future Ideas and Landmarks
 Things I would like to do in the future
-- Finish all of the challenges on pwn.college
+- Finish most or all of the challenges on nightmare
+- Maybe finish all of the challenges on pwn.college
 - Finish more content of ost2.fyi
 - Finish portswigger web academy
 - Get a CVE
