@@ -17,12 +17,3 @@ Most of my best work is listed in my favorited repositories, but I have done an 
 I have some work experience
 - I did about three months of an internship doing embedded development with arduinos
 - I also spent about a year doing malware analysis with volatility, and building memory forensics training materials
-## Future Ideas and Landmarks
-Things I would like to do in the future
-- Finish most or all of the challenges on nightmare
-- Maybe finish all of the challenges on pwn.college
-- Finish more content of ost2.fyi
-- Finish portswigger web academy
-- Get a CVE
-- Do more Open Source
-- Analyze more Malware
