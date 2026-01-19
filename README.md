@@ -1,20 +1,13 @@
 # spencer-burke
 Full-Stack Web Developer
 ## Languages
-- html
-- css
-- javascript
-- python
-- php
-- golang
+- PHP
+- Typescript
+- CSS
 ## Frameworks/Libraries
 - Laravel
-- Echo
-- FastAPI
+- Livewire
 - React
-- MUX
-## Technologies
-- NATS
-- Redis
-- Postgresql
+## Infra
 - Railway
+- AWS
