@@ -3,6 +3,7 @@ Full-Stack Web Developer
 ## Languages
 - PHP
 - Ruby
+- Javascript
 - Typescript
 - CSS
 ## Frameworks/Libraries
