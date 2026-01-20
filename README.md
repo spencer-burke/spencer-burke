@@ -10,6 +10,7 @@ Full-Stack Web Developer
 - Laravel
 - Livewire
 - Rails
+- Hotwire
 - React
 ## Infra
 - Railway
