@@ -1,12 +1,12 @@
 # spencer-burke
 Full-Stack Web Developer
 ## Languages
-- PHP
-- Typescript
+- Ruby
+- Javascript
 - CSS
 ## Frameworks/Libraries
-- Laravel
-- Livewire
+- Ruby on Rails
+- Hotwire
 - React
 ## Infra
 - Railway
