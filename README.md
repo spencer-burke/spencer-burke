@@ -1,13 +1,4 @@
 # spencer-burke
 Full-Stack Web Developer
-## Languages
-- Ruby
-- Javascript
-- CSS
-## Frameworks/Libraries
-- Ruby on Rails
-- Hotwire
-- React
-## Infra
-- Railway
-- AWS
+My stack is in flux for now.
+I want to keep experimenting before I commit to something.
