@@ -1,13 +1,2 @@
 # spencer-burke
-Full-Stack Web Developer(I change my tech occasionally)
-## Languages
-- Ruby
-- Typescript
-- CSS
-## Frameworks
-- Rails
-- Hotwire
-- React
-## Infrastructure
-- AWS
-- Railway
+Full-Stack Web Developer. I build apps. I use whatever technology my brain is interested in at the moment.
